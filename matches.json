@@ -1,36 +1,86 @@
 [
   {
-    "date": "2024-11-30",
+    "date": "2024-12-07",
     "time": "14:00",
     "location": "Gymnase Lavenu",
-    "category": "U13",
+    "category": "U20",
     "home_team": "ES Brunoy U13-2",
-    "away_team": "Ris Orangis",
+    "away_team": "Palaiseau",
     "scorekeeper": null,
     "timer": null,
     "referee1": null,
     "referee2": null
   },
   {
-    "date": "2024-11-30",
+    "date": "2024-12-07",
     "time": "16:00",
     "location": "Gymnase Lavenu",
     "category": "U15",
-    "home_team": "ES Brunoy U15-1",
-    "away_team": "Paray",
+    "home_team": "ES Brunoy U15-2",
+    "away_team": "Etampes",
     "scorekeeper": null,
     "timer": null,
     "referee1": null,
     "referee2": null
   },
   {
-    "date": "2024-01-12",
+    "date": "2024-12-07",
+    "time": "18:00",
+    "location": "Gymnase Lavenu",
+    "category": "U17",
+    "home_team": "ES Brunoy U17-2",
+    "away_team": "Boissy Saint Yon",
+    "scorekeeper": null,
+    "timer": null,
+    "referee1": null,
+    "referee2": null
+  },
+  {
+    "date": "2024-12-08",
+    "time": "11:30",
+    "location": "Gymnase Lavenu",
+    "category": "U17",
+    "home_team": "ES Brunoy U17-1",
+    "away_team": "Juvisy",
+    "scorekeeper": null,
+    "timer": null,
+    "referee1": null,
+    "referee2": null
+  },
+  {
+    "date": "2024-12-08",
     "time": "13:30",
     "location": "Gymnase Lavenu",
     "category": "U11",
     "home_team": "ES Brunoy U11-1",
-    "away_team": "Palaiseau",
+    "away_team": "Limours",
     "scorekeeper": null,
-    "timer": null
+    "timer": null,
+    "referee1": null,
+    "referee2": null
+  },
+  {
+    "date": "2024-12-08",
+    "time": "15:30",
+    "location": "Gymnase Lavenu",
+    "category": "Loisirs",
+    "home_team": "ES Brunoy Loisirs",
+    "away_team": "Alfortville",
+    "scorekeeper": null,
+    "timer": null,
+    "referee1": null,
+    "referee2": null
+  },
+  {
+    "date": "2024-12-08",
+    "time": "17:30",
+    "location": "Gymnase Lavenu",
+    "category": "Seniors",
+    "home_team": "ES Brunoy Seniors-1",
+    "away_team": "Savigny-sur-Orge",
+    "scorekeeper": null,
+    "timer": null,
+    "referee1": null,
+    "referee2": null
   }
 ]
